@@ -3,8 +3,7 @@
 
 # arnett-lab's Website
 
-An engaging 1-3 sentence description of your lab.
-
+"ADHD is one of the most common conditions of childhood: About 1 in 9 children in the U.S. has been diagnosed. But two children with the same diagnosis can look completely different. They have different strengths, different struggles, and different responses to the same treatment. At the Arnett Lab, we study how children's brains, genes, and everyday lives shape ADHD. Our goal is to move toward a future where ADHD care is more precise, more personalized, and better suited to each child's unique needs."
 {% include section.html %}
 
 ## Highlights
