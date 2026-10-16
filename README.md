@@ -5,6 +5,6 @@
 
   # arnett-lab's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[arnett-lab.github.io/arnett-lab-website](https://arnett-lab.github.io/arnett-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
