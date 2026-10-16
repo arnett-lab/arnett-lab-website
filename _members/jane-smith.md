@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
+name: Dr. Anne Arnett
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: 
 aliases:
   - J. Smith
   - J Smith
