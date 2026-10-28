@@ -1,7 +1,5 @@
-
 ---
 ---
-
 # Every child with ADHD is different. Their care should be too.
 
 ADHD is one of the most common conditions of childhood: about 1 in 9 children in the U.S. has been diagnosed. But two children with the same diagnosis can look completely different. They have different strengths, different growth areas, and different responses to the same treatment.
